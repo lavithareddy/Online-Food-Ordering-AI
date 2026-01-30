@@ -1,0 +1,11 @@
+food_id,food_name,category,cuisine,price,rating
+1,Chicken Biryani,Main Course,Indian,250,4.5
+2,Paneer Butter Masala,Main Course,Indian,220,4.3
+3,Veg Fried Rice,Main Course,Chinese,180,4.0
+4,Chicken Noodles,Main Course,Chinese,200,4.2
+5,Margherita Pizza,Fast Food,Italian,300,4.4
+6,Farmhouse Pizza,Fast Food,Italian,350,4.6
+7,Burger,Fast Food,American,150,4.1
+8,French Fries,Snacks,American,120,4.0
+9,Chocolate Cake,Dessert,Bakery,200,4.7
+10,Ice Cream,Dessert,Dairy,150,4.5
