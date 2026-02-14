@@ -37,7 +37,6 @@ def recommend_food(food_name):
     recommendations = []
     for i in scores[1:4]:
         recommendations.append(data.iloc[i[0]]["food_name"])
-
     return recommendations
 
 # Test
